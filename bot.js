@@ -16,12 +16,12 @@ mau ngambil kode yah ? izin dulu sama creator
 */
 const Telegraf = require('telegraf')
 
-const bot = new Telegraf('1675749539:AAH46KNMRschhJDMuI5dclpp9FnB0znEaK4')
+const bot = new Telegraf('5413684938:AAEC9UPPS7U9pLyRlX1eCc1pyy2B4yNPPoo')
 const axios = require('axios')
 
 /*********[ Apikey ]*********/
 let lolhuman = '99ecdb09b1053d90fbc15d56'
-let iteach = 'Ganti pakai apikey kalian' //silahkan login/register di https://api.i-tech.id untuk mendapatkan apikey
+let iteach = '842634d3715c4f365xPm' //silahkan login/register di https://api.i-tech.id untuk mendapatkan apikey
 /***************************/
 
 const helpMessage = `Katakan sesuatu kepada saya\n/start - untuk memulai bot\n/menu - untuk menampilkan list menu`;
